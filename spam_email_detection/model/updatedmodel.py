@@ -129,4 +129,4 @@ with open("updatedmodel/tokenizer.json", "w") as f:
 lstm_model.save("updatedmodel/lstm_model.h5")
 conv_model.save("updatedmodel/conv_model.h5")
 
-print("\n📦 All models, vectorizer, and tokenizer saved in 'updatedmodel/' folder.")
+print("\n All models, vectorizer, and tokenizer saved in 'updatedmodel/' folder.")
